@@ -1,1 +1,6 @@
 print('Sveiki')
+print('Sveiki')
+print('Sveiki')
+print('Sveiki')
+print('Sveiki')
+print('Sveiki')
